@@ -1,6 +1,6 @@
 # facial-recognition
 
-A Python class for identifying face images or, given a face image, finding the most similar image in the dataset.
+A Python class for identifying face images or, given a face image, finding the most similar image in the dataset. Currently only supports .jpg images that are 200x180 pixels.
 
 ## Usage
 First, unzip the dataset faces94.zip into the same directory as facial_recognition.py. Alternatively, if you have a different dataset, copy it to
