@@ -21,9 +21,6 @@ data.match(g)
 # Plots g along with the best match from the dataset
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Acknowledgement
 This code began as the solutions to the Facial Recognition lab in Foundations of Applied Mathematics, Volume 1 
 by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans.
